@@ -54,4 +54,8 @@ Graduate of Management Information Systems
 
 This dashboard was created as a personal portfolio project to practice data visualization, storytelling, and analytical thinking using real-world sports data.
 
+⚠️ **Data Note:**  
+Some matches are not included in the dataset due to missing or incomplete historical records, especially for lesser-known tournaments or earlier years.  
+As a result, total match counts may not reflect Nick Kyrgios's full career history.
+
 *Feedback, stars, and forks are always welcome!*
