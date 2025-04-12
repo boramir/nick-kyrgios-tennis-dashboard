@@ -22,13 +22,24 @@ This Power BI dashboard provides a detailed analysis of **Nick Kyrgios's profess
   Additional context is displayed through custom tooltips, with color-coded win rates for better visual interpretation.
 
 ---
+## 📸 Dashboard Preview
 
-## 📁 Files
+### 🎯 Match Distribution by Surface
+![Match Distribution by Surface](./assets/surface.png)
 
-| File                              | Description                          |
-|-----------------------------------|--------------------------------------|
-| `KyrgiosPerformanceDashboard.pbix` | Power BI file with all visuals & logic |
-| `assets/` *(optional)*            | Screenshots of visuals (for preview or documentation) |
+### 👥 Match Performance by Opponent
+![Match Performance by Opponent](./assets/opponent_matrix.png)
+
+### 📆 Wins and Losses by Year
+![Wins and Losses by Year](./assets/winloss_year.png)
+
+---
+
+## 📄 Downloadable PDF Version
+
+If you don’t have Power BI installed, view the dashboard as PDF:
+
+📥 [Download PDF](./KyrgiosPerformanceDashboard.pdf)
 
 ---
 
